@@ -34,6 +34,7 @@ Conditional statement exercise
 ⦁	Ако бюджета им е НЕ достатъчен - "Not enough money, you need {нужната сума} leva more."
 Сумата да бъде форматирана до втория знак след десетичната запетая.
 
+<br>
 
 <table>
 <thead><tr><th>Вход</th><th>Изход</th></tr></thead><tbody>
